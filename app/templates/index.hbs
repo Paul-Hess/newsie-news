@@ -1,0 +1,11 @@
+<h1>Homepage</h1>
+
+
+<ul>
+  {{#each model as |bustle|}}
+    {{bustle-list bustle=bustle}}
+  {{/each}}
+</ul>
+
+
+{{#link-to 'admin'}}Admin pg{{/link-to}}
