@@ -4,5 +4,20 @@
     "photo": "http://cdn.foodbeast.com.s3.amazonaws.com/content/uploads/2014/03/big-mama-pappa-pizza-huge.jpg",
     "author": "Ellen Dijourno",
     "article": "Ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae co"
-    }]
+    },
+    {
+    "headline": "Dog Defeats Zombie in Monster Mash",
+    "photo": "https://s-media-cache-ak0.pinimg.com/236x/8c/82/c8/8c82c89617c09f84a4136871b0637b69.jpg",
+    "author": "Carl Grimes",
+    "article": "Ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor."
+    },
+    {
+      "headline": "You Won't Belive How Fat These Fatties Got",
+      "author": "Carl Grimes",
+      "photo": "http://img.ifcdn.com/images/6989ddc542438eb946fd69b79956784254eb45bf7df517cab57defc2c6fd8d6f_1.jpg",
+      "article": "Ntore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor. quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor."
+    }
+
+  ]
+
 }
