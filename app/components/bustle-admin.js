@@ -10,6 +10,6 @@ export default Ember.Component.extend({
         article: this.get("article"),
       };
       this.sendAction('savePost2', params);
-    }
+    },
   }
 });

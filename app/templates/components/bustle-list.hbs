@@ -1,3 +1,13 @@
 <li>
   {{#link-to 'bustle' bustle.id}} {{bustle.headline}} by {{bustle.author}} {{/link-to}}
+  {{update-admin bustle=bustle update2="update3"}}
+  <!-- update form for editing articles -->
+  <form>
+    Headline: {{input value=headline }} <br>
+    Author: {{input value=author }} <br>
+    Photo: {{input value=photo }} <br>
+    Article: {{input value=article }} <br>
+    <button {{action 'update1' bustle}}>Update</button>
+  </form>
+
 </li>
